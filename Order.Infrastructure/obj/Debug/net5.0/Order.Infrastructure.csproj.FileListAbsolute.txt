@@ -15,3 +15,20 @@ C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.dll
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\ref\Order.Infrastructure.dll
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.deps.json
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\ref\Order.Infrastructure.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Application.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Application.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\bin\Debug\net5.0\Order.Domain.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.CopyComplete
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\ref\Order.Infrastructure.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.pdb
