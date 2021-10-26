@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj": {}
+    "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj": {
+    "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj",
         "projectName": "Order.Presentation",
-        "projectPath": "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj",
-        "packagesPath": "C:\\Users\\ahuzmeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Presentation\\Order.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Ali Huzmeli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ahuzmeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ali Huzmeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\git\\nsn-broadcast\\Nesine.Broadcast.Client\\bin\\Debug": {},
-          "http://nuget.dsans.int/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

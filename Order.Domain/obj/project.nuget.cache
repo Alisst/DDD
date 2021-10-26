@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mIYsvwJFp2pC4pUCPIj3aPHHzJCQC+r/6AuPqAGvTceecp4tfSZcKIwiZNcS2YqEEDv52tdL+8eLhgZl7LDbsg==",
+  "dgSpecHash": "E2pZlWUeg8V4qclZTq9gYmhrPvbH5YFnQ9iPxE4sRZnpTipuSs0ZT7JdCr97L5+UhCtQaMR3luY56lA/7vtEgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Domain\\Order.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Ali Huzmeli\\Downloads\\DomainDrivenDesignTest\\DomainDrivenDesignTest\\Order.Domain\\Order.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ahuzmeli\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\Ali Huzmeli\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
