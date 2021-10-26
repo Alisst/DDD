@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLPmwliOxT13gf688WXyX8DGS4CzunzVUNiKwKINkFwtaA+sc5Jfc1/UmNbGFFB37zoV4IasY78D8zkyRGZ9cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahuzmeli\\Desktop\\DomainDrivenDesignTest\\Order.Infrastructure\\Order.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahuzmeli\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
