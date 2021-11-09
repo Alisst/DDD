@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Infrastructure", "Ord
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.Presentation", "Order.Presentation\Order.Presentation.csproj", "{68482034-09D2-4655-BB3B-B41D399AFAEA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mediatrExampleSrc", "mediatrExampleSrc", "{5EBCEE3B-A360-4DA6-B4C8-9BBACD4B8F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrExample", "MediatrExample\MediatrExample.csproj", "{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,7 @@ Global
 		{9A1BBCCF-B23A-4360-94EE-C3B35545F067} = {083FE4DC-918D-4B1A-88A7-FF0885AA875D}
 		{D6E3CBED-7A00-430A-BF95-DC538044A361} = {083FE4DC-918D-4B1A-88A7-FF0885AA875D}
 		{68482034-09D2-4655-BB3B-B41D399AFAEA} = {083FE4DC-918D-4B1A-88A7-FF0885AA875D}
+		{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005} = {5EBCEE3B-A360-4DA6-B4C8-9BBACD4B8F77}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{27806FFE-BDC1-435A-8D9F-3B4820596947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -38,5 +43,9 @@ Global
 		{68482034-09D2-4655-BB3B-B41D399AFAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68482034-09D2-4655-BB3B-B41D399AFAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68482034-09D2-4655-BB3B-B41D399AFAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E65D8DE-61E7-48E1-9A3B-114AD2CA8005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

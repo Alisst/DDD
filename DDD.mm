@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1634567483423" ID="ID_1268849516" MODIFIED="1634567588601" TEXT="DDD">
+<node CREATED="1634567483423" ID="ID_1268849516" MODIFIED="1635250012952" TEXT="DDD">
 <icon BUILTIN="ksmiletris"/>
 <node CREATED="1634567641204" ID="ID_1963159670" MODIFIED="1634568047372" POSITION="right" TEXT="Tan&#x131;m&#x131;">
 <richcontent TYPE="NOTE"><html>
@@ -18,8 +18,7 @@
       Bu yakla&#351;&#305;m ile birlikte yaz&#305;l&#305;m geli&#351;tirme a&#351;amas&#305;nda veya hayata ge&#231;irilen projelerde s&#252;reklili&#287;i ve s&#252;rekli ya&#351;anan temel problemlere kal&#305;c&#305; &#231;&#246;z&#252;mler getirilebilir.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 </node>
 <node CREATED="1634568066043" ID="ID_366293957" MODIFIED="1634735517772" POSITION="right" TEXT="Terminoloji">
@@ -47,8 +46,7 @@
       6) Refactoring, Ckean &amp; Readable Code
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1634568169006" FOLDED="true" ID="ID_292425411" MODIFIED="1634806549187" TEXT="Ubiquitous Language">
 <icon BUILTIN="full-1"/>
 <node CREATED="1634568182984" ID="ID_468183965" MODIFIED="1634568520831" TEXT="Yaz&#x131;l&#x131;m ekibi ile domain expert aras&#x131;ndaki ortak ileti&#x15f;imi sa&#x11f;layan dil">
@@ -79,8 +77,7 @@
       Testing code -&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hepsinin ortak noktas&#305; Ubiquitous Language diye ge&#231;iyor. Burada tester'lardan tutun domain ile ilgili expert olanlar&#305;n, yaz&#305;l&#305;m ekiplerinin herkesin konu&#351;tu&#287;u ortak bir dil.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="forward"/>
 </node>
 <node CREATED="1634568194949" FOLDED="true" ID="ID_1486017499" MODIFIED="1634806548832" TEXT="Her &#x15f;eyin kar&#x15f;&#x131;l&#x131;&#x11f;&#x131; olmas&#x131; gerekli">
@@ -110,8 +107,7 @@
       Birbirinden ayr&#305;lm&#305;&#351;, &#231;er&#231;eveleri s&#305;n&#305;rlar&#305; belirlenmi&#351; bir yap&#305; anlam&#305;nda
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 </node>
 <node CREATED="1634569136934" FOLDED="true" ID="ID_1356046748" MODIFIED="1634806695202" TEXT="Bir domain, subdomain ler i&#xe7;erebilir ve i&#xe7;ermelidir">
