@@ -1,3 +1,15 @@
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\Order.Domain.deps.json
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\ref\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\Order.Domain.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\ref\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Domain\obj\Debug\net5.0\Order.Domain.pdb
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\Order.Domain.deps.json
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\Order.Domain.dll
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Domain\bin\Debug\net5.0\ref\Order.Domain.dll

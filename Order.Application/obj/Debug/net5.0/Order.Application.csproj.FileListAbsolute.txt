@@ -13,3 +13,18 @@ C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Application\obj\Debug\net
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.dll
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\ref\Order.Application.dll
 C:\Users\ahuzmeli\Desktop\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\Order.Application.deps.json
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\Order.Application.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\ref\Order.Application.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\Order.Application.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\Order.Domain.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\bin\Debug\net5.0\Order.Domain.pdb
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.AssemblyInfo.cs
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.csproj.CopyComplete
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\ref\Order.Application.dll
+C:\Users\Ali Huzmeli\Downloads\DomainDrivenDesignTest\DomainDrivenDesignTest\Order.Application\obj\Debug\net5.0\Order.Application.pdb
